@@ -27,7 +27,7 @@ const puntosHTML = document.querySelectorAll('small');
 
 
 
-crearDeck(tipos, especiales);
+deck = crearDeck(tipos, especiales);
 
 
 // Esta función me permite tomar una carta
